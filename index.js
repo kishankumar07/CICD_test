@@ -1,0 +1,1 @@
+console.log('CI/CD Pipeline : Ready to Deploy !')
